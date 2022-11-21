@@ -1,0 +1,26 @@
+body{
+  font-size: 15px;
+}
+.todo{
+  background-color: #faebd7;
+  border: 0.5px solid rgb(193, 193, 193);
+  padding: 10px;
+  margin: 5px;
+}
+button{
+  padding: 5px;
+}
+li{
+  display: flex;
+  align-items: center;
+}
+
+li button{
+  margin: 0 20px;
+}
+.done{
+  background-color: rgb(171, 246, 246);
+  border: 0.5px solid rgb(193, 193, 193);
+  padding: 10px;
+  margin: 5px;
+}
